@@ -5,3 +5,5 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+- Febuary: [Candied Carrorts](../recipe/feb/Candied-Carrots.md)
+
